@@ -1,5 +1,6 @@
 # Thermondo_Salesforce_Coding_Challenge
 **As part of the assignment below you can find all the changes:**
+
 Apex Class:
 1. NPSAPICalloutAction
 2. NPSAPICalloutActionTest
